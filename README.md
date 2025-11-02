@@ -12,7 +12,7 @@
 ![TryHackMe 101](https://img.shields.io/badge/TryHackMe-101-red?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![TryHackMe SOC 1](https://img.shields.io/badge/TryHackMe-SOC%201-darkgreen?style=for-the-badge&logo=tryhackme&logoColor=white)
 - 🔭 I’m currently I am a junior student :grin:
-- 👯 I’m looking to my first job  :wink:
+- I’m looking to my first job  :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [linkedin](www.linkedin.com/in/dan-owen-77686a219) and [email](danowen741@gmail.com)
 - 🧗 I try to: Go beyond and push the bounds
