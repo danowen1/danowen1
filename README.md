@@ -20,7 +20,7 @@
  ### 🛡️ Roles de Ciberseguridad
 
 [![Rol SOC Analyst](https://img.shields.io/badge/SOC%20Analyst-70%25-red?style=flat-square&logo=security&logoColor=white)](https://tu_enlace_a_certificaciones.com)
-[![Rol Pentester](https://img.shields.io/badge/Pentester-40%25-blue?style=flat-square&logo=kalilinux&logoColor=white)](https://tu_enlace_a_certificaciones.com)
+[![Rol Pentester](https://img.shields.io/badge/Pentester-30%25-blue?style=flat-square&logo=kalilinux&logoColor=white)](https://tu_enlace_a_certificaciones.com)
 
 ### 🛠️ Key Tools
 
